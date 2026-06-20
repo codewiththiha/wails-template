@@ -1,0 +1,6 @@
+{
+  "name": "Subtitle Translator",
+  "description": "A desktop-grade subtitle translator application frontend template with parallel batch processing and localStorage fallbacks, prepared for future desktop framing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
